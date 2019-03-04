@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6b2ab6666bb94a44a9bc32f01683360c
+timeCreated: 1488034139
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Italiano '
+  fontNames:
+  - 'Italiano '
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
